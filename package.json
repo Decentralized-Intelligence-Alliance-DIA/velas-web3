@@ -1,5 +1,5 @@
 {
-  "name": "@solana/web3.js",
+  "name": "@velas/web3",
   "version": "0.0.0-development",
   "description": "Solana Javascript API",
   "keywords": [
@@ -11,10 +11,10 @@
   "homepage": "https://solana.com/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/solana-labs/solana-web3.js.git"
+    "url": "https://github.com/velas/velas-web3.git"
   },
   "bugs": {
-    "url": "http://github.com/solana-labs/solana-web3.js.git/issues"
+    "url": "http://github.com/velas/velas-web3.git/issues"
   },
   "publishConfig": {
     "access": "public"

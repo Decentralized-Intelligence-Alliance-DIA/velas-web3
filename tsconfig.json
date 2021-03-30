@@ -19,7 +19,7 @@
     "noImplicitReturns": true,
     "paths": {
       // This is needed so that @solana/spl-token's @solana/web3.js doesn't conflict
-      "@solana/web3.js": ["."]
+      "@velas/web3": ["."]
     }
   },
   "include": ["src"]
